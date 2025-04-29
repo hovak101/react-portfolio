@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "AK Violin Studio";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ann Kerobyan",
+    description: "I’m Ann Kerobyan data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ann Kerobyan",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
