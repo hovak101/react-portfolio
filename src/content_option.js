@@ -6,11 +6,6 @@ const meta = {
 
 const introdata = {
     title: "I’m Ann Kerobyan",
-    animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
-    },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
@@ -136,10 +131,10 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "annkerobyan@gmail.com",
+    YOUR_FONE: "(408) 636-3824",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
+    // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
